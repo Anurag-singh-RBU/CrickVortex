@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "country": "India",
+      "board" : "Board of Control for Cricket in India (BCCI)",
+      "captain": "Rohit Sharma",
+      "interesting_facts": "India is the only team to win an international match without hitting a single boundary"
+    },
+    {
+      "id": 2,
+      "country": "Australia",
+      "board" : "Cricket Australia",
+      "captain": "Pat Cummins",
+      "interesting_facts": "First team to switch from a white jersy to a yellow one in the middle of a World Cup"
+    },
+    {
+      "id": 3,
+      "country": "Bangladesh",
+      "board" : "Bangladesh Cricket Board (BCB)",
+      "captain": "Shakib Al Hasan",
+      "interesting_facts": "Bangladesh U-19 team once bowled out an entire team (Maldives) for just 6 runs in a T20 match"
+    },
+    {
+      "id": 4,
+      "country": "Pakistan",
+      "board" : "Pakistan Cricket Board (PCB)",
+      "captain": "Mohammad Rizwan",
+      "interesting_facts": "Holds the record of being the first-ever host nation to be eliminated early from the Champions Trophy"
+    },
+    {
+      "id": 5,
+      "country": "Afghanistan",
+      "board" : "Afghanistan Cricket Board (ACB)",
+      "captain": "Hashmatullah Shahidi",
+      "interesting_facts": "Afghanistan once won an ODI match where their top scorer was ‘Extras’"
+    },
+    {
+      "id": 6,
+      "country": "England",
+      "board" : "England Cricket Board (ECB)",
+      "captain": "Jos Buttler",
+      "interesting_facts": "England is the ONLY team in cricket history to lose the final in all three major white-ball World Cup formats"
+    },
+    {
+      "id": 7,
+      "board" : "New Zealand Cricket (NZC)",
+      "country": "New Zealand",
+      "captain": "Mitchell Santner",
+      "interesting_facts": "New Zealand is the ONLY team in history to reach two consecutive ODI World Cup finals (2015 & 2019) and lose both"
+    },
+    {
+      "id": 8,
+      "country": "South Africa",
+      "board" : "Cricket South Africa (CSA)",
+      "captain": "Temba Bavuma",
+      "interesting_facts": "South Africa is the ONLY team in history to be eliminated from the World Cup due to a rain rule mistake"
+    },
+    {
+      "id": 9,
+      "country": "West Indies",
+      "board" : "Cricket West Indies (CWI)",
+      "captain": "Rovman Powell",
+      "interesting_facts": "West Indies is the ONLY team to have won multiple World Cups but failed to qualify for both the ODI & T20 World Cups later"
+    }
+  ]
+  
